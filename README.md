@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanipark
 - 👀 I’m interested in computer science
-- 🌱 I’m currently taking a course in Data Structures and Algorithims, Databse
+- 🌱 I’m currently taking a course in Data Structures and Algorithims, also DBMS
 - 💞️ I’m looking to collaborate on not sure.
 - 📫 How to reach me ryanpark@usa.com
 
