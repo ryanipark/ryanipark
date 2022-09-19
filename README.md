@@ -48,5 +48,5 @@ https://user-images.githubusercontent.com/98127886/190940114-4d4a6867-07d7-4882-
 
 https://user-images.githubusercontent.com/98127886/190940122-9c9440df-535a-4b5d-842f-372749b09359.mp4
 
-
+[link to projects repo](https://github.com/ryanipark/466-WebStore-Project)
 
