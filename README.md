@@ -9,7 +9,7 @@ Chicago and have lived  here my whole life. Feel free to contact me.
 Reach me:
  - [LinkedIn](https://www.linkedin.com/in/ryanipark/)
  - [Github](github.com/ryanipark)
- - [Twitter](twitter.com/ryanipark)
+ - [Twitter](https://twitter.com/ryanipark)
  - ryanpark@usa.com
 
 ## GitHub index
