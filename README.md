@@ -9,7 +9,7 @@ Reach me:
  - [LinkedIn](https://www.linkedin.com/in/ryanipark/)
  - [Github](github.com/ryanipark)
  - [Twitter](https://www.twitter.com/ryanipark/)
- - [My website](ryanipark.com)
+ - [My website](https://ryanipark.com)
  - ryanpark@usa.com
 
 ## Repo index
