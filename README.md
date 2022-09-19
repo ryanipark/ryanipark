@@ -8,12 +8,14 @@ Chicago. Feel free to contact me!
 Reach me:
  - [LinkedIn](https://www.linkedin.com/in/ryanipark/)
  - [Github](github.com/ryanipark)
+ - [Twitter](https://www.twitter.com/ryanipark/)
  - ryanpark@usa.com
 
 ## GitHub index
 
  - [Intermediate Programming in C++](https://github.com/ryanipark/intermediateCPP)
- -  [Data Structures and Algorithms](https://github.com/ryanipark/Data-Structures-Algorithms)
+ - [Data Structures and Algorithms](https://github.com/ryanipark/Data-Structures-Algorithms)
+ - [Web Store project](https://github.com/ryanipark/466-WebStore-Project)
 
 
 ## Projects
