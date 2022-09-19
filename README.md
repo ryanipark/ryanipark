@@ -11,7 +11,7 @@ Reach me:
  - [Twitter](https://www.twitter.com/ryanipark/)
  - ryanpark@usa.com
 
-## GitHub index
+## Repo index
 
  - [Intermediate Programming in C++](https://github.com/ryanipark/intermediateCPP)
  - [Data Structures and Algorithms](https://github.com/ryanipark/Data-Structures-Algorithms)
