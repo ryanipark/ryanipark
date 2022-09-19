@@ -15,6 +15,7 @@ Reach me:
 
  - [Intermediate Programming in C++](https://github.com/ryanipark/intermediateCPP)
  - [Data Structures and Algorithms](https://github.com/ryanipark/Data-Structures-Algorithms)
+ - [Computer Programming in Assembler](https://github.com/ryanipark/Computer-Prog-Assembler)
  - [Web Store project](https://github.com/ryanipark/466-WebStore-Project)
 
 
