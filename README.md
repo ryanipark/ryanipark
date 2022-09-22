@@ -7,7 +7,6 @@ Chicago. Feel free to contact me!
 
 Reach me:
  - [LinkedIn](https://www.linkedin.com/in/ryanipark/)
- - [Github](github.com/ryanipark)
  - [Twitter](https://www.twitter.com/ryanipark/)
  - [My website](https://ryanipark.com)
  - ryanpark@usa.com
