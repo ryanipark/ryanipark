@@ -14,7 +14,7 @@ Reach me:
 
 ## Current Project
 
-   **[Auto Parts webstore](https://github.com/467Group3A/rimjobs) - In development as we speak, I will post example usage and screenshots as it we continue.** 
+   **[Auto Parts webstore](https://github.com/467Group3A/rimjobs) - In development as we speak, I will post example usage and screenshots as we continue.** 
 
 **About the project:**   I am working in a team of four people to create a Auto Parts web store that uses technologies we have not been exposed to before. We have chosen the following tools in attempt to set some clear opportunities for learning.
 
