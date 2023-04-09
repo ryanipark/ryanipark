@@ -29,7 +29,7 @@ Reach me:
  - Node.js , express.js, and vue.js
  - MariaDB as a legacy database which holds a dynamic list of parts (This DB is read only)
  - SQLite3 as a local database which holds order information, shipping and handling charges, and employee information
- - The site implements a third parts credit card authorization system which is viewed here [(CC auth)](https://blitz.cs.niu.edu/Monitor/#/credits) 
+ - The site implements a third party credit card authorization system which is viewed here [(CC auth)](https://blitz.cs.niu.edu/Monitor/#/credits) 
  - Python is used to dynamically pull and populate inventory from the legacy DB. 
 
 **My implementations:**  
