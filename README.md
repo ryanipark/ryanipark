@@ -45,6 +45,8 @@ Reach me:
 	 - They are also able to remove inventory from the site
  - Created an inventory endpoint that combines the part information from the legacy DB with inventory on hand from local DB.
       - This combined with our python scripts allows for parts from the legacy DB to be dynamically pulled.
+ - Created and implmented a system that allows for shipping and handling charges to be inserted by an Administrator
+      - This system only stores intervals in the DB, allowing for "weight brackets" by cost to be adjusted on the fly
 
 ## Repo index
 
