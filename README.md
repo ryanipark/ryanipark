@@ -47,6 +47,11 @@ Reach me:
       - This combined with our python scripts allows for parts from the legacy DB to be dynamically pulled.
  - Created and implmented a system that allows for shipping and handling charges to be inserted by an Administrator
       - This system only stores intervals in the DB, allowing for "weight brackets" by cost to be adjusted on the fly
+ - Created a login system for employees and admins, their role decides which pages they can view
+      - Restricts users not logged in from viewing pages
+      - Uses express session variables
+ - Created and implmented an email confirmation system for customers, it uses nodemailer to send an email to them.
+ - Created a Manage logins page for Admins to add/delete employee/admin logins, it lists all users on the site.
 
 ## Repo index
 
