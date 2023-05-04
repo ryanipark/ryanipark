@@ -14,7 +14,7 @@ Reach me:
 
 ## Current Project
 
-   **Auto parts webstore - The project is currently done***
+   **Auto parts webstore**
    
    **Links: [Repository](https://github.com/467Group3A/rimjobs)** -
    **[Live site](https://rimjobs.store)**
