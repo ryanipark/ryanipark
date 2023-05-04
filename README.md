@@ -19,7 +19,7 @@ Reach me:
    **Links: [Repository](https://github.com/467Group3A/rimjobs)** -
    **[Live site](https://rimjobs.store)**
 
-**About the project:**   I am working in a team of four people to create a Auto Parts web store that uses technologies we have not been exposed to before. We have chosen the following tools in attempt to set some clear opportunities for learning. This website is based off a mechanic shop from a game called Saints Row.
+**About the project:**   I am working in a team of four people to create an Auto Parts web store that uses technologies we have not been exposed to before. We have chosen the following tools in attempt to set some clear opportunities for learning. This website is based off a mechanic shop from a game called Saints Row.
 
 **Project specifications:**  
 - The store must utilize a read only legacy database and understand that the contents of it might change at any moment. (This DB holds the parts the site sells)
