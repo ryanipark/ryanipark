@@ -14,14 +14,17 @@ Reach me:
 
 ## Current Project
 
-   **[Auto Parts webstore](https://github.com/467Group3A/rimjobs) - In development as we speak, I will post example usage and screenshots as we continue.** 
+   **Auto parts webstore - The project is currently done***
+   
+   **Links: [Repository](https://github.com/467Group3A/rimjobs)** -
+   **[Live site](https://rimjobs.store)**
 
 **About the project:**   I am working in a team of four people to create a Auto Parts web store that uses technologies we have not been exposed to before. We have chosen the following tools in attempt to set some clear opportunities for learning.
 
 **Project specifications:**  
 - The store must utilize a read only legacy database and understand that the contents of it might change at any moment. (This DB holds the parts the site sells)
 - We must build the website with the intentions of real world usage, meaning all aspects should be tested and innovated in a way that is optimal.
-- We must build the website around our use case model [Model](https://i.imgur.com/xJbQcMv.png)
+- We must build the website around our use case model [Model](https://i.imgur.com/x7YOp3N.png)
    
  **Tools:** 
 
