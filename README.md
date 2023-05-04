@@ -34,6 +34,7 @@ Reach me:
  - SQLite3 as a local database which holds order information, shipping and handling charges, and employee information
  - The site implements a third party credit card authorization system which is viewed here [(CC auth)](https://blitz.cs.niu.edu/Monitor/#/credits) 
  - Python is used to dynamically pull and populate inventory from the legacy DB. 
+ - [Pretty picture of our tech stack](https://i.imgur.com/3Za6oGh.png)
 
 **My implementations:**  
 *This technology is very new to me, so my focus has been all over the place as I attempt to learn as much as possible.*
