@@ -66,7 +66,7 @@ Reach me:
  - [Web Store project (2022)](https://github.com/ryanipark/466-WebStore-Project)
 
 
-## Projects
+## Other Projects
 **E-Commerce web store (2022):**
 
 **Description:** Worked in a team of five people to create a web store that interacts with a database. The website keeps track of a user’s personal information, orders, and product inventory. While it is relatively minimalistic, it is a fully functioning website that would allow users to browse, purchase, and receive products. It also includes and employee/owner control panel.
