@@ -12,7 +12,7 @@ Reach me:
  - [My website](https://ryanipark.com)
  - ryanpark@usa.com
 
-## Current Project
+## Recent finished project
 
    **Auto parts webstore**
    
