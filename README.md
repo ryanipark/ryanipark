@@ -1,4 +1,5 @@
 
+
 # Ryan Park
  Hello! I am an undergrad at Northern Illinois University, I am
 majoring in  computer science with an emphasis in Software
@@ -12,11 +13,14 @@ Reach me:
  - [My website](https://ryanipark.com)
  - ryanpark@usa.com
 
-## Recent finished project
-
-   **Auto parts webstore**
+## Current project - Recipe Web/Mobile Application
+   **[Link to repository](https://github.com/ryanipark/recipe-web-app)**
    
-   **Links: [Repository](https://github.com/467Group3A/rimjobs)** -
+   **Description:**  I'm in the process of making a recipe web application; it will allow for users to create/share/modify recipes. After the web application is stable, I will also develop a mobile application.
+
+## Most recent completed project - Auto parts webstore
+   
+   **[Link to repository](https://github.com/467Group3A/rimjobs)**  
    **[Live site](https://rimjobs.store)**
 
 **About the project:**   I am working in a team of four people to create an Auto Parts web store that uses technologies we have not been exposed to before. We have chosen the following tools in attempt to set some clear opportunities for learning. This website is based off a mechanic shop from a game called Saints Row.
@@ -57,17 +61,8 @@ Reach me:
  - Created and implmented an email confirmation system for customers, it uses nodemailer to send an email to them.
  - Created a Manage logins page for Admins to add/delete employee/admin logins, it lists all users on the site.
 
-## Repo index
-
- - Note: I had to private some repo's, if you're interested in seeing them, feel free to contact me!
- - [~~Intermediate Programming in C++~~](https://github.com/ryanipark/intermediateCPP)
- - [~~Data Structures and Algorithms~~](https://github.com/ryanipark/Data-Structures-Algorithms)
- - [~~Computer Programming in Assembler~~](https://github.com/ryanipark/Computer-Prog-Assembler)
- - [Web Store project (2022)](https://github.com/ryanipark/466-WebStore-Project)
-
-
-## Other Projects
-**E-Commerce web store (2022):**
+## E-Commerce web store (2022)
+[Repository: ](https://github.com/ryanipark/466-WebStore-Project)
 
 **Description:** Worked in a team of five people to create a web store that interacts with a database. The website keeps track of a user’s personal information, orders, and product inventory. While it is relatively minimalistic, it is a fully functioning website that would allow users to browse, purchase, and receive products. It also includes and employee/owner control panel.
 
@@ -96,5 +91,11 @@ https://user-images.githubusercontent.com/98127886/190940114-4d4a6867-07d7-4882-
 
 https://user-images.githubusercontent.com/98127886/190940122-9c9440df-535a-4b5d-842f-372749b09359.mp4
 
-[link to projects repo](https://github.com/ryanipark/466-WebStore-Project)
+
+## Repo index
+
+ - Note: I had to private some repo's, if you're interested in seeing them, feel free to contact me!
+ - [~~Intermediate Programming in C++~~](https://github.com/ryanipark/intermediateCPP)
+ - [~~Data Structures and Algorithms~~](https://github.com/ryanipark/Data-Structures-Algorithms)
+ - [~~Computer Programming in Assembler~~](https://github.com/ryanipark/Computer-Prog-Assembler)
 
