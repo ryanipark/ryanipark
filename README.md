@@ -21,7 +21,7 @@ Reach me:
 ## Most recent completed project - Auto parts webstore
    
    **[Link to repository](https://github.com/467Group3A/rimjobs)**  
-   **[Live site](https://rimjobs.store)**
+   **[~~Live site~~](https://rimjobs.store)**
 
 **About the project:**   I am working in a team of four people to create an Auto Parts web store that uses technologies we have not been exposed to before. We have chosen the following tools in attempt to set some clear opportunities for learning. This website is based off a mechanic shop from a game called Saints Row.
 
