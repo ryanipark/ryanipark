@@ -13,11 +13,6 @@ Reach me:
  - [My website](https://ryanipark.com)
  - ryanpark@usa.com
 
-## Current project - Recipe Web/Mobile Application
-   **[Link to repository](https://github.com/ryanipark/recipe-web-app)**
-   
-   **Description:**  I'm in the process of making a recipe web application; it will allow for users to create/share/modify recipes. After the web application is stable, I will also develop a mobile application.
-
 ## Most recent completed project - Auto parts webstore
    
    **[Link to repository](https://github.com/467Group3A/rimjobs)**  
@@ -98,4 +93,11 @@ https://user-images.githubusercontent.com/98127886/190940122-9c9440df-535a-4b5d-
  - [~~Intermediate Programming in C++~~](https://github.com/ryanipark/intermediateCPP)
  - [~~Data Structures and Algorithms~~](https://github.com/ryanipark/Data-Structures-Algorithms)
  - [~~Computer Programming in Assembler~~](https://github.com/ryanipark/Computer-Prog-Assembler)
+
+
+
+## Recipe Web/Mobile Application
+   **[Link to repository](https://github.com/ryanipark/recipe-web-app)**
+   
+   **Description:**  I'm in the process of making a recipe web application; it will allow for users to create/share/modify recipes. After the web application is stable, I will also develop a mobile application.
 
