@@ -89,10 +89,14 @@ https://user-images.githubusercontent.com/98127886/190940122-9c9440df-535a-4b5d-
 
 ## Repo index
 
- - Note: I had to private some repo's, if you're interested in seeing them, feel free to contact me!
- - [~~Intermediate Programming in C++~~](https://github.com/ryanipark/intermediateCPP)
- - [~~Data Structures and Algorithms~~](https://github.com/ryanipark/Data-Structures-Algorithms)
- - [~~Computer Programming in Assembler~~](https://github.com/ryanipark/Computer-Prog-Assembler)
+ - Note: I had to private these repo's, if you're interested in seeing them, please send me an email!
+ - [Intermediate Programming in C++](https://github.com/ryanipark/intermediateCPP)
+ - [Data Structures and Algorithms](https://github.com/ryanipark/Data-Structures-Algorithms)
+ - [Computer Programming in Assembler](https://github.com/ryanipark/Computer-Prog-Assembler)
+ - [Programming in Java](https://github.com/ryanipark/java)
+ - [iOS Mobile development](https://github.com/ryanipark/ios)
+ - [Computer Architecture](https://github.com/ryanipark/computer-architecture)
+ - [Operating System Principles](https://github.com/ryanipark/os)
 
 
 
