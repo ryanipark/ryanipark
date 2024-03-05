@@ -1,9 +1,8 @@
 
 
 # Ryan Park
- Hello! I am an undergrad at Northern Illinois University, I am
-majoring in  computer science with an emphasis in Software
-Development. Some of my  interests include video games, foreign cars,
+ Hello! I am a graduate from Northern Illinois University, where I received my undergrad in 
+ Computer Science with an emphasis in software development. Some of my  interests include video games, foreign cars,
 and time outdoors. I am  currently located in the northwest suburbs of
 Chicago. Feel free to contact me!
 
